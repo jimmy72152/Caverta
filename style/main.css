@@ -362,6 +362,8 @@ ul li:hover>.sub_menu {
 .menu_types h4 {
     font-size: 16px;
     transition: all 1s;
+    font-weight: 500;
+    font-family: "Lora", serif;
 }
 
 .menu_types h4:hover {
