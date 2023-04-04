@@ -355,6 +355,9 @@ ul li:hover>.sub_menu {
     margin-top: 100px;
     margin-bottom: 50px;
 }
+.menu_types{
+    margin: auto;
+}
 
 .menu_types h4 {
     font-size: 16px;
