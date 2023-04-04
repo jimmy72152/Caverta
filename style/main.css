@@ -356,7 +356,8 @@ ul li:hover>.sub_menu {
     margin-bottom: 50px;
 }
 .menu_types{
-    margin: auto;
+        margin: auto;
+        width:50%;
 }
 
 .menu_types h4 {
@@ -364,6 +365,7 @@ ul li:hover>.sub_menu {
     transition: all 1s;
     font-weight: 500;
     font-family: "Lora", serif;
+
 }
 
 .menu_types h4:hover {
